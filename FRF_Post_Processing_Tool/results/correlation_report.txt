@@ -1,0 +1,25 @@
+FRF CORRELATION REPORT
+==================================================
+
+SIMULATION RESONANCE PEAKS
+--------------------------------------------------
+Frequency = 22.00 Hz | Amplitude = 0.4190
+Frequency = 32.00 Hz | Amplitude = 0.0910
+Frequency = 42.00 Hz | Amplitude = 0.0641
+Frequency = 48.00 Hz | Amplitude = 0.0519
+
+TEST RESONANCE PEAKS
+--------------------------------------------------
+Frequency = 22.00 Hz | Amplitude = 0.1881
+Frequency = 32.00 Hz | Amplitude = 0.2318
+Frequency = 48.00 Hz | Amplitude = 0.0655
+Frequency = 56.00 Hz | Amplitude = 0.0451
+Frequency = 61.00 Hz | Amplitude = 0.0532
+
+CORRELATION TABLE
+--------------------------------------------------
+Mode	Simulation(Hz)	Testing(Hz)	Error(Hz)
+1	22.00		22.00		0.00
+2	32.00		32.00		0.00
+3	42.00		48.00		6.00
+4	48.00		56.00		8.00
